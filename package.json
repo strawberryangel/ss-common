@@ -1,12 +1,21 @@
 {
-  "name": "ss-common",
-  "version": "3.0.0",
-  "description": "Common Non-Library Code for SS",
-  "main": "",
+  "bugs": {
+    "url": "https://github.com/strawberryangel/ss-common/issues"
+  },
   "dependencies": {
     "debug": "^2.2.0",
     "nconf": "^0.8.4",
     "node-uuid": "^1.4.7",
-    "semver": "^5.3.0",
-  }
+    "semver": "^5.3.0"
+  },
+  "description": "Common Non-Library Code for SS",
+  "homepage": "https://github.com/strawberryangel/ss-common",
+  "license": "CC-BY-SA-4.0",
+  "main": "",
+  "name": "ss-common",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:strawberryangel/ss-common.git"
+  },
+  "version": "3.0.1"
 }
